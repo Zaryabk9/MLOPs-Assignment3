@@ -8,7 +8,7 @@ This repository contains the code and documentation for Assignment II, which foc
 - `data/`: Directory for storing processed data files.
 - `.dvc/`: Directory for Data Version Control (DVC) setup.
 - `Dockercompose.yml`: Docker configuration files.
-- `requirements.txt`: Required Python dependencies.
+
 
 ## Documentation:
 - `data_preprocessing.md`: Documentation of data preprocessing steps.
